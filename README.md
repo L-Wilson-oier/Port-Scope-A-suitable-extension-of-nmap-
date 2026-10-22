@@ -1,7 +1,7 @@
 # PortScope
 
 ***
-This is not a substitute for Nmap; it does not replace its significant role in host discovery and port diagnosis. It is a lightweight complement based on Python3. Feel free to clone, modify, duplicate, and share any changes to this code. It is my honor to contribute.
+This is not a substitute for Nmap; it does not replace its significant role in host discovery and port diagnosis. It is a lightweight complement based on Python3. Feel free to clone, modify, duplicate, and share any changes to this code. It is my honor to contribute. This program is still being developed and not completely tested. 
 ***
 **Protocol-aware post-Nmap port diagnostics, with careful pacing for fragile or rate-limited services.**
 
